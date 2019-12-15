@@ -19,10 +19,6 @@ Instrucción Universitaria en la  Universidad Estatal de Guayaquil cursando prim
 ### Superior:
 Instrucción Universitaria en la  Universidad Estatal de Guayaquil cursando primer semestre en la carrera Ingeniería en software.aspirando a graduarse 2024.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mendozawdms@gmail.com](mailto:mendozawdms@gmail.com)
